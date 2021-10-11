@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/sumedh24/Electronics-Department/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electronics Engineering Department</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+<style>
+    body{
+        background-color: #6ee7b5;
+    }
+    .heading {
+        text-align: center;
+        font-family: 'Abril Fatface', cursive;
+    }
+    .Info{
+        text-align: center;
+    }
+    .image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .More
+    {
+        text-align: center;
+    }
+</style>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <h1 class="heading">Electronics Engineering Department</h1>
+    <img src="http://www.walchandsangli.ac.in/images/ElnDeptPhoto.jpg" alt="Electronics Engineering Department"
+        class="image">
+    <p style=" font-family: 'Varela Round', sans-serif;">The Department of Electronics Engineering was established in 1986 to offer both graduate and post graduate programs at Walchand College of Engineering, Sangli. Its Curriculum is developed in such a  way that it will nurture critical thinking, creativity and professional skills in students.
+    The Electronics Engineering Department runs programs of Diploma (Industrial Electronics), B. Tech. (Electronics) and M. Tech (Electronics). Department is recognized as a Ph. D. research centre for the following schemes: AICTE's National Doctoral Fellowship Scheme, Govt. of India's Quality Improvement Program and Shivaji University, Kolhapur. Department is accredited by the National Board of Accreditation, New Delhi. The Electronics Engineering Department has a well qualified faculty, having expertise in various Electronics Engineering streams like Communication and Signal Processing, Embedded Systems and VLSI, Instrumentation and Control Systems.The Electronics Engineering Department has well equipped laboratories with latest instruments and software tools for students, faculty and research scholars. Various laboratories including Electronics Design and Automation Lab, Embedded System, Microcontroller Lab, Digital Design Lab, Industrial Electronics lab, Instrumentation and Control Lab, Communication Lab, PG Lab, PG Research Lab  and John Deere Research Lab etc.</p>
+    <h3 style="font-family: 'Abril Fatface', cursive;">Contact Us</h3>
+    <p style=" font-family: 'Varela Round', sans-serif;" >
+        Walchand College of Engineering,
+        <br>A/P: Vishrambag,
+        <br>
+        Sangli- 416415
+        <br>
+        Maharashtra, India
+        <br>
+        Tel: +91 2332300383
+    </p>
+    <p style=" font-family: 'Varela Round', sans-serif;">For More Information, <a href=http://www.walchandsangli.ac.in/Departments/ElectronicsDepartment/ElectronicsDept.asp>Visit Us</a></p>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sumedh24/Electronics-Department/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
